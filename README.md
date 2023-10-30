@@ -8,3 +8,5 @@ Key Responsibilities
 
 - Extracted COVID-19 data from Kaggle, conducted data cleaning in Python to address missing values, outliers, and inappropriate data types, ensuring data accuracy and consistency.
 - Utilized Tableau to design and develop an interactive COVID-19 analytics dashboard, incorporating key metrics and visualizations to visualize the pandemic's time series and spread in Indonesia.
+
+source: Kaggle
